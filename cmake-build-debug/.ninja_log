@@ -1,0 +1,8 @@
+# ninja log v5
+4	567	7048967952028984	build.ninja	daba0433826e32f
+1	219	7048967952028984	build.ninja	daba0433826e32f
+1	211	7048971458340691	CMakeFiles/Exerc_listas.dir/main.c.obj	7f94f331b29e33b8
+11	358	7048971459806783	CMakeFiles/Exerc_listas.dir/funcoes.c.obj	9a4783dd485c9c36
+359	629	7048971462389863	Exerc_listas.exe	613ce1cfcae454a5
+3	122	7048971624962860	CMakeFiles/Exerc_listas.dir/main.c.obj	7f94f331b29e33b8
+123	290	7048971626608460	Exerc_listas.exe	613ce1cfcae454a5
